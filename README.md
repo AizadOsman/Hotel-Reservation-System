@@ -2,7 +2,7 @@
 Debuting my first simple java project using Apache Netbeans IDE.
 
 Steps to access the file:
-1. Download the file.
+1. Download the file "Hotel_Reservation_System.rar".
 2. Unzip / extract the file.
 3. Run Apache Netbeans IDE 16 (or any version).
 4. Open project file named "Hotel_Reservation_System".
